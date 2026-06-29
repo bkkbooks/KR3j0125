@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR3j0125/v1
+canonical_location: https://kanripo.org/bkk/KR3j0125/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 祛疑說
+  date: '2015-08-24 23:24:11.433509'
+  source:
+    repository: kanripo
+    path: KR3j0125
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3j0125_000.yaml, hash: 'sha256:012d2dc9db90e4293000db799008caffac1db850d0d8b8e17c913dd52e770e89'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3j0125_000.markers.yaml, hash: 'sha256:860329ea517f49d1d00670197e18d08fc8ecd827b7e593a15e6fc6db4b541eb6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3j0125_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 325
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3j0125_WYG_000-3a
+    span:
+    - body
+    - 325
+    - 10954
+  label: 祛疑説
+  type: section
+  level: 1
+hash: sha256:55bfb92bc831f59ffa041c040883cab38f2eb1768bd89d1afb22ecbd1aa0526b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
