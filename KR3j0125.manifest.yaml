@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3j0125/v1
 canonical_location: https://kanripo.org/bkk/KR3j0125/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 祛疑說
   date: '2015-08-24 23:24:11.433509'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3j0125_000.yaml, hash: 'sha256:826e55f232281d4d9363e487a5e229ceaa453dfaee00f7b29c413799f46b7121'}
+  - {seq: 0, filename: KR3j0125_000.yaml, hash: 'sha256:552382a244bdc6e0e600791fb68fbcf22c232724cae0d792118bb7e68cc023f0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0125_000.markers.yaml, hash: 'sha256:3f0f2c4854b78b14d0a4f501429acc92c4dfb25aed21da014288242bf491a366'}
+  - {seq: 0, role: markers, filename: assets/KR3j0125_000.markers.yaml, hash: 'sha256:403a6c402341849715c6ec464b7a94d92de5a0d27547d89b9994a852caf01bba'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 祛疑説
   type: section
   level: 1
-hash: sha256:83bcf1398ee11ef41036873650e8bbbfa004d8d54af3f40fb9d5b411de001059
+hash: sha256:1eb3766b7e97ec7f2297a23229d8b7dd475a28feb441139c04d6cbee24518f8a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
