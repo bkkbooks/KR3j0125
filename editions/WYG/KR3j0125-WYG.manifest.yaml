@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3j0125_000-WYG.yaml, hash: 'sha256:09b326b9ddca2e93a82f997ee596a591259d9bfd78640be6e7447acce030ea3f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0125_000-WYG.markers.yaml, hash: 'sha256:2975cf7261ddc8a1cb48adacb42e08927860dcdb6191d359a5fffaf5983e9368'}
+  - {seq: 0, role: markers, filename: assets/KR3j0125_000-WYG.markers.yaml, hash: 'sha256:2a48c19ea70cb20516b4b20f6c2bd907f829c150eb076fc8d9c82a42c28cc560'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 祛疑説
   type: section
   level: 1
-hash: sha256:70b34297a573eef4559b9faba32de768e9cdf78f8a5d28260065ee5cdd955cb3
+hash: sha256:bb7a1482a03feb56b0888fda1f553882bab737cbb155289cfc7e3d2e1d67e955

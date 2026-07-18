@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3j0125_000.yaml, hash: 'sha256:552382a244bdc6e0e600791fb68fbcf22c232724cae0d792118bb7e68cc023f0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0125_000.markers.yaml, hash: 'sha256:403a6c402341849715c6ec464b7a94d92de5a0d27547d89b9994a852caf01bba'}
+  - {seq: 0, role: markers, filename: assets/KR3j0125_000.markers.yaml, hash: 'sha256:da6037db6c7c525598fcbd799c49f0c9418fdb9e4921d6d1ee76bf075379e4ad'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,7 @@ table_of_contents:
   label: 祛疑説
   type: section
   level: 1
-hash: sha256:1eb3766b7e97ec7f2297a23229d8b7dd475a28feb441139c04d6cbee24518f8a
+hash: sha256:6e5f01ff7506f0d805d35762de5e7522acb8daa88e35fd92928d65aa1e699ed6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
